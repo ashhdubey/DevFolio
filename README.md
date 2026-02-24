@@ -13,7 +13,7 @@ Built with modern web technologies, this site is a fully responsive, accessible,
 ## 🚀 Live Demo
 
 Check out the live website here:  
-👉 **[View Live Portfolio](https://ashhdubey.netlify.app/)** *(Replace this link with your actual Netlify URL once deployed)*
+👉 **[View Live Portfolio](https://ashhdubey.netlify.app/)** 
 
 ---
 
