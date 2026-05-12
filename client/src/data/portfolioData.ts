@@ -66,7 +66,7 @@ export const projects: Project[] = [
   },
   {
     id: "2",
-    title: "MAA (Under Work)",
+    title: "MAA (Maternal Awareness aid)",
     description: "A digital health assistance and wellness monitoring platform. Currently developing the core architecture, database flow, and integrating machine learning models for personalized health insights.",
     image: "/maa.png", 
     techStack: ["React", "Spring Boot", "PostgreSQL", "Machine Learning"], 
