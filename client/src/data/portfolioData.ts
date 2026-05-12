@@ -123,9 +123,9 @@ export const projects: Project[] = [
 export const experiences: Experience[] = [
   {
     id: "1",
-    role: "Backend Dev Intern",
+    role: "Software Dev Intern",
     company: "The CarePalz ",
-    period: "Dec 2025 - March 2026",
+    period: "Jan 2025 - April 2026",
     responsibilities: [
       "Architected Spring Boot REST APIs for core operations, enabling seamless client-server data flow.",
       "Designed 5+ PostgreSQL tables utilizing Spring Data JPA, reducing manual SQL queries by 30%.",
