@@ -64,9 +64,19 @@ export const projects: Project[] = [
     liveUrl: "https://fizio.ashhdubey.in/", 
     githubUrl: "https://github.com/ashhdubey", 
   },
-  
   {
     id: "2",
+    title: "MAA (Under Work)",
+    description: "A digital health assistance and wellness monitoring platform. Currently developing the core architecture, database flow, and integrating machine learning models for personalized health insights.",
+    image: "/maa.png", 
+    techStack: ["React", "Spring Boot", "PostgreSQL", "Machine Learning"], 
+    category: ["Full Stack", "AI/ML"], 
+    liveUrl: "https://maa.ashhdubey.in/home", 
+    githubUrl: "https://github.com/ashhdubey", 
+  },
+  
+  {
+    id: "3",
     title: "EcoShield",
     description: "Full-stack environment monitoring app. Implemented Spring Security with JWT, designed normalized PostgreSQL schemas, and integrated REST APIs for real-time weather metrics.",
     image: "/ecoshield.png",
@@ -77,7 +87,7 @@ export const projects: Project[] = [
     category: ["Full Stack"],
   },
   {
-    id: "3",
+    id: "4",
     title: "DayZero (comming soon)",
     description: "A comprehensive placement preparation platform for Tier 2/3 colleges. Features include subject-wise MCQs, an AI-powered interviewer, and a JD Matcher to create company-specific mock tests.",
     image: "/dayzero.png",
@@ -87,16 +97,7 @@ export const projects: Project[] = [
     liveUrl: "#", 
     githubUrl: "https://github.com/ashhdubey", 
   },
-  {
-    id: "4",
-    title: "MAA (Under Work)",
-    description: "A digital health assistance and wellness monitoring platform. Currently developing the core architecture, database flow, and integrating machine learning models for personalized health insights.",
-    image: "/maa.png", 
-    techStack: ["React", "Spring Boot", "PostgreSQL", "Machine Learning"], 
-    category: ["Full Stack", "AI/ML"], 
-    liveUrl: "#", 
-    githubUrl: "https://github.com/ashhdubey", 
-  },
+  ,
   {
     id: "5",
     title: "CineMatch",
